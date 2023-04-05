@@ -1,7 +1,6 @@
 # Hi, I’m @anytokin👋 and I'm developer form Poland
-
+<img src="https://github.com/anytokin/anytokin/blob/main/img/poland-strong.png?raw=true" alt="poland-strong.png">
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
