@@ -1,4 +1,4 @@
-# Hi, I’m @anytokin👋 and I'm developer form Poland
+# Hi, I’m @anytokin👋 and I'm developer from Poland
 <img src="https://github.com/anytokin/anytokin/blob/main/img/poland-strong.png?raw=true" alt="poland-strong.png">
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
@@ -6,6 +6,8 @@
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector-730x730.jpg" alt="scikit-learn" width="40" height="40"/> </a>
+
 </a>
     </p>
 - 👀 I’m interested in Python, ML, 3D Printing
