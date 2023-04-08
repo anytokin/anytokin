@@ -8,6 +8,7 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Pytorch.png" alt="PyTorch" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Seaborn.png" alt="Seaborn" width="40" height="40"/> </a>
 <a href="https://huggingface.co/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/c3635b59-a3d2-444a-b636-a9d0061dcdde.png" alt="HuggingFslce" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Streamlit.png" alt="Streamlit" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
