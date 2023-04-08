@@ -5,7 +5,7 @@
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Python.png" alt="Python" width="40" height="40"/> </a>
 <a href="https://micropython.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/MicroPython.png" alt="MicroPython" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Pandas.png" alt="Pandas" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> <img src=https://github.com/anytokin/anytokin/blob/main/img/Pytorch.png" alt="PyTorch" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Pytorch.png" alt="PyTorch" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Seaborn.png" alt="Seaborn" width="40" height="40"/> </a>
 <a href="https://huggingface.co/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/c3635b59-a3d2-444a-b636-a9d0061dcdde.png" alt="HuggingFslce" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
