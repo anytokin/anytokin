@@ -1,5 +1,15 @@
-# Hi, I’m @anytokin👋 and I'm developer from Poland
+<h2 align="left"> Hi👋 I’m @anytokin</h2>
+I'm developer and tech nerd from Poland
+<br> <br>
 <img src="https://github.com/anytokin/anytokin/blob/main/img/poland-strong.png?raw=true" alt="poland-strong.png">
+
+I'm intrested in:
+- <img src="https://cdn-icons-png.flaticon.com/512/4108/4108969.png" alt="DS" width="30" height="30"/> data science 
+- <img src="https://github.com/anytokin/anytokin/blob/main/img/Brain.png" alt="ML" width="30" height="30"/> machine learning 
+- <img src="https://static.thenounproject.com/png/154245-200.png" alt="3D printer" width="30" height="30"/> 3D printing  
+- <img src="https://www.olimex.com/Products/IoT/ESP8266/_images/Espressif-logo.png" alt="ESP8266" width="30" height="30"/> IOT - especially ESP8266 
+
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Python.png" alt="Python" width="40" height="40"/> </a>
@@ -15,10 +25,10 @@
 <a href="https://colab.research.google.com//" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Colab.png" alt="Google Colab" width="40" height="40"/> </a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Colud" width="40" height="40"/> </a>
 </a>
-    </p>
-- 👀 I’m interested in Python, ML, 3D Printing
-- 🌱 I’m currently learning C and ML
-- 📫 How to reach me dawid.kohnke.cad@gmial.com
+
+<h2 align="left"> You can reach me @:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Dawid_Kohnke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dawid-kohnke/)](https://www.linkedin.com/in/dawid-kohnke/) [![Gmail Badge](https://img.shields.io/badge/-dawid.kohnke.cad@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dawid.kohnke.cad@gmail.com)](mailto:dawid.kohnke.cad@gmail.com) 
 
 <!---
 anytokin/anytokin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
