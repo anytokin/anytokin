@@ -1,5 +1,5 @@
 <h2 align="left"> Hi👋 I’m @anytokin</h2>
-I'm developer and tech nerd from Poland
+I'm engineer, developer and tech nerd from Poland
 <br> <br>
 <img src="https://github.com/anytokin/anytokin/blob/main/img/poland-strong.png?raw=true" alt="poland-strong.png">
 
