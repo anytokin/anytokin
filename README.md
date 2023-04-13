@@ -3,7 +3,7 @@ I'm engineer, developer and tech nerd from Poland
 <br> <br>
 <img src="https://github.com/anytokin/anytokin/blob/main/img/poland-strong.png?raw=true" alt="poland-strong.png">
 
-<h2 align="left">:firecracker:I'm intrested in:</h2>
+<h2 align="left">:bulb:I'm intrested in:</h2>
  
 - <img src="https://cdn-icons-png.flaticon.com/512/4108/4108969.png" alt="DS" width="30" height="30"/> data science 
 - <img src="https://github.com/anytokin/anytokin/blob/main/img/Brain.png" alt="ML" width="30" height="30"/> machine learning 
