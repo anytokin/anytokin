@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi I’m <a href="https://github.com/anytokin">@anytokin</a></h2>
+<img src="img/svg/header.svg"></img>
 I'm a passionate engineer, developer, and tech enthusiast based in Poland.<br>
 I love exploring the fascinating world of data science, AI, and ML using Python.<br>
 Currently, I'm working as an automation tester and studying at Turing College to further expand my knowledge and skills.<br>
