@@ -13,12 +13,12 @@ I love the challenge of creating and building something new, and nothing brings 
 - <img src="https://static.thenounproject.com/png/154245-200.png" alt="3D printer" width="30" height="30"/> 3D printing  
 - <img src="https://www.olimex.com/Products/IoT/ESP8266/_images/Espressif-logo.png" alt="ESP8266" width="30" height="30"/> IoT - especially ESP8266 
 
-<h2 align="left">:rainbow: My Philosophy:</h2>
+<h2 align="left">:rainbow: My philosophy:</h2>
 I believe that the power of technology lies in its ability to solve real-world problems, and that's what motivates me every day.<br>
 I'm constantly looking for ways to use my skills and expertise to make a positive impact in the world.
 
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies and tools I use:</h2>
 <p align="left">
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/Python.png" alt="Python" width="40" height="40"/> </a>
 <a href="https://micropython.org/" target="_blank"> <img src="https://github.com/anytokin/anytokin/blob/main/img/MicroPython.png" alt="MicroPython" width="40" height="40"/> </a>
@@ -34,7 +34,7 @@ I'm constantly looking for ways to use my skills and expertise to make a positiv
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Colud" width="40" height="40"/> </a>
 </a>
 
-<h2 align="left">:sparkling_heart: Let's Create Something Amazing Together </h2>
+<h2 align="left">:sparkling_heart: Let's create something amazing together </h2>
 So, feel free to check out my Github profile and see what I'm up to.<br>
 If you have any questions or want to collaborate on a project, don't hesitate to reach out. <br>
 Let's create something amazing together!<br>
